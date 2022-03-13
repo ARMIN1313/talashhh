@@ -22,3 +22,14 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# ignore new files
+doc/*
+!doc
+deep-file.md
+sub-file.mp3
+video.mp4
+sub-file.index
+voice.mp3
+help.mp4
+guide.mp3
